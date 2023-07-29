@@ -18,7 +18,7 @@ If, your watched address is making trade on the routers and calling this functio
 ## 1. Clone the repository
 ```shell
 git clone https://github.com/manavjain2002/Copy-Dex-Trading-Bot.git
-cd Dex-Copy-Trading-Bot
+cd Copy-Dex-Trading-Bot
 npm install
 ```
 
