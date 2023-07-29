@@ -1,0 +1,18 @@
+Started listening to mempool........
+User Address : 0x14b618a7ecA2e13ffC0b6c923F4B83C4492Ac713 
+Method Name : swapExactETHForTokens 
+Token0 : 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2 
+Token1 : 0xd6933da2e613799053456133e92fa09edc19ed12 
+Value : 200000000000000000 
+TxHash: 0x4ed9bc8eb188086174be873e9865109e88d91b202820f95f065ccf6fb326ac86
+
+
+
+User Address : 0x9B577C19EcE91f6Df6D8568C65EEc1213743CaFc 
+Method Name : swapExactETHForTokensSupportingFeeOnTransferTokens 
+Token0 : 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2 
+Token1 : 0x76442308bb3ad52798242ec63120c9863bf55ae5 
+Value : 63424589315908744 
+TxHash: 0x0ce791b907d49895bc24118599a57ffd217470300d6c5792455ac1e03b876555
+
+

@@ -1,0 +1,70 @@
+{
+    "addresses": [
+        {
+            "name": "Addr1",
+            "value": "0x9b577c19ece91f6df6d8568c65eec1213743cafc"
+        },
+        {
+            "name": "Addr2",
+            "value": "0x580186Cc40555C98A6415a0Aa6d79Ea1c24Ce8fB"
+        },
+        {
+            "name": "Addr3",
+            "value": "0x25C8063B95757494a526B94860B413014227b4dd"
+        },
+        {
+            "name": "Addr4",
+            "value": "0x24F24Eb543d09ac4A02701683f28bA8F36F17868"
+        },
+        {
+            "name": "Addr5",
+            "value": "0x14b618a7ecA2e13ffC0b6c923F4B83C4492Ac713"
+        },
+        {
+            "name": "Addr6",
+            "value": "0x817E8253058eB04f505815fAcecf0eEf170106Ca"
+        },
+        {
+            "name": "Addr7",
+            "value": "0xE7eA41014D175c5dcA55651dAd3723d22b717998"
+        },
+        {
+            "name": "Addr8",
+            "value": "0xe016Dd20Eaa73cAE0c6c83F75E638178Cc2dA2ce"
+        },
+        {
+            "name": "Addr9",
+            "value": "0xAb3020B1d59226cC4b04172C2a69AeC62eaa89c3"
+        }
+    ],
+    "routers": [
+        {
+            "name": "sushiswap",
+            "value": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+        },
+        {
+            "name": "uniswap",
+            "value": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D"
+        }
+    ],
+    "tokens": [
+        {
+            "name": "NEWTKN",
+            "value": "0x4B19cC06E8F9CE47ecda1486f0c74Bf8bA1d985a"
+        },
+        {
+            "name": "WMATIC",
+            "value": "0x5B67676a984807a212b1c59eBFc9B3568a474F0a"
+        }
+    ],
+    "thresholdAmt": [
+        {
+            "name": "WMATIC",
+            "value": "1000000000000000000"
+        },
+        {
+            "name": "NEWTKN",
+            "value": "100000000000000000000"
+        }
+    ]
+}
