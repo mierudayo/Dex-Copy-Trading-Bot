@@ -223,6 +223,7 @@ const startTrade = async (txHash) => {
             // console.log(e)
         }
 }
+
 console.log('Started listening to mempool........')
 fs.writeFileSync("Logs.txt", "Started listening to mempool........", {flag: "a"})
 
