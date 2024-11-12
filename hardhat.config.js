@@ -3,6 +3,7 @@ require('dotenv').config();
 module.exports = {
     defaultNetwork: "ethereum",
     networks: {
+    
       ethereum: {
         url: process.env.RPC,
         accounts: [process.env.PRIVATE_KEY]
